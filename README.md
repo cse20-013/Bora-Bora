@@ -15,6 +15,10 @@
     right: 0;
     z-index: 10;
 }" alt="Bora Bora Best Beaches and Bunglows (with half board) - 6 nights" width="104" height="142">
-    <img src="https://th.bing.com/th/id/OIP.K9wcQvWPJ1s1pw2uwjqRIwHaDL?pid=ImgDet&rs=1.jpg" width="140" height="100">
+    <img src="https://th.bing.com/th/id/OIP.K9wcQvWPJ1s1pw2uwjqRIwHaDL?pid=ImgDet&rs=1.jpg" class="specialposition {
+    position: absolute;
+    top: -25%;
+    right: 0;
+    z-index: 10; width="140" height="100">
   </body>
 </html>  
