@@ -19,6 +19,6 @@
     position: absolute;
     top: -25%;
     right: 0;
-    z-index: 10; width="140" height="100">
+    z-index: 10; width="200" height="140">
   </body>
 </html>  
